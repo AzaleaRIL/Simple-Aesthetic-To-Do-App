@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360714766093",
+    "project_id": "dobedo-9b4c1",
+    "storage_bucket": "dobedo-9b4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360714766093:android:67d3bd93882762e1d91244",
+        "android_client_info": {
+          "package_name": "com.finalproj.dobedo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfikf_scvUSB5qDljpX7DjozlzKQUsLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
